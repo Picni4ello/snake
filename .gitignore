@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Snake/v16
+/Snake/bin/Debug
+/Snake/obj/Debug
+/Snake/Properties
